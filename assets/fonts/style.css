@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'SnellBT-Bold';
+   font-display: swap;
+   src: url('SnellBT-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'AvenirLTStd-Book';
+   font-display: swap;
+   src: url('AvenirLTStd-Book/font.ttf');
+}
